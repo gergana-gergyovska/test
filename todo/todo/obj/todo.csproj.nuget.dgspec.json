@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gergana.gergyovska\\source\\repos\\todo\\todo\\todo.csproj": {}
+    "C:\\Users\\gergana.gergyovska\\Desktop\\Season reset 17\\repo test\\todo\\todo\\todo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gergana.gergyovska\\source\\repos\\todo\\todo\\todo.csproj": {
+    "C:\\Users\\gergana.gergyovska\\Desktop\\Season reset 17\\repo test\\todo\\todo\\todo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gergana.gergyovska\\source\\repos\\todo\\todo\\todo.csproj",
+        "projectUniqueName": "C:\\Users\\gergana.gergyovska\\Desktop\\Season reset 17\\repo test\\todo\\todo\\todo.csproj",
         "projectName": "todo",
-        "projectPath": "C:\\Users\\gergana.gergyovska\\source\\repos\\todo\\todo\\todo.csproj",
+        "projectPath": "C:\\Users\\gergana.gergyovska\\Desktop\\Season reset 17\\repo test\\todo\\todo\\todo.csproj",
         "packagesPath": "C:\\Users\\gergana.gergyovska\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gergana.gergyovska\\source\\repos\\todo\\todo\\obj\\",
+        "outputPath": "C:\\Users\\gergana.gergyovska\\Desktop\\Season reset 17\\repo test\\todo\\todo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gergana.gergyovska\\AppData\\Roaming\\NuGet\\NuGet.Config",
